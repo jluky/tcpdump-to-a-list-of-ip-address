@@ -1,6 +1,6 @@
-## This script is used to process a list of IP addresses and create a summary of successful and failed connections for each IP address.
+## *This script is used to process a list of IP addresses and create a summary of successful and failed connections for each IP address.*
 
-### The script does the following:
+### **The script does the following:**
 
 + Creates three output files: success.txt, failure.txt, and output.pcap.
 + Reads IP addresses from a file called ips.txt, one IP address per line.
